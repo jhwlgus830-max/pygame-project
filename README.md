@@ -14,8 +14,7 @@
 
 ## 🎮 게임 스크린샷
 
-*(이곳에 게임 플레이 스크린샷이나 GIF 파일을 추가하여 시각적인 요소를 극대화해 보세요!)*
-* 예시: `![Gameplay Screenshot](image/game_start.png)`
+![Gameplay Screenshot](image/main%20screenshot.png)
 
 ---
 
