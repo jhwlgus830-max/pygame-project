@@ -14,7 +14,10 @@
 
 ## 🎮 게임 스크린샷
 
-![Gameplay Screenshot](image/main%20screenshot.png)
+<p align="center">
+  <img src="image/main%20screenshot.png" width="49%" alt="Main Screenshot" />
+  <img src="image/gameplay.gif" width="49%" alt="Gameplay Demo" />
+</p>
 
 ---
 
@@ -82,6 +85,8 @@ pygame-project/
 ├── font/
 │   └── Bazzi.ttf               # 게임 내 둥글고 귀여운 느낌의 한글 배찌 폰트
 ├── image/
+│   ├── gameplay.gif            # 🎮 게임 플레이 시연 움짤 (GIF)
+│   ├── main screenshot.png     # 📸 게임 대표 스크린샷 이미지
 │   ├── alveolus.png            # 플레이어 (폐포)
 │   ├── broccoli.png            # 브로콜리 아이템
 │   ├── cigarette.png           # 담배 몬스터
